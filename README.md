@@ -7,5 +7,4 @@
 - [Activitat 5](Activitat5.md)
 - [Activitat 6](Activitat6.md)
 - [Activitat 7](Activitat7.md)
-- [Activitat 8](Activitat8.md)
-- [Activitat 9](Activitat9.md)
+- [Activitat 8 i Activitat 9](Activitat8i9.md)
