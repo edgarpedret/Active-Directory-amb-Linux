@@ -1,4 +1,4 @@
-# Activitat 8
+# Activitat 8 i 9
 
 - Connecta l'equip Windows al domini
 
@@ -8,4 +8,7 @@
 
   ![image](https://github.com/user-attachments/assets/dfb28b20-400e-41eb-893d-d97be537f30d)
 
-  
+  ![image](https://github.com/user-attachments/assets/d07f3df1-6bbe-4a13-87d6-09a1ca902ab0)
+
+  ![image](https://github.com/user-attachments/assets/092a9c2f-118d-4404-9a41-bcfffcb84f33)
+
